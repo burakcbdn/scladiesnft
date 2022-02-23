@@ -1,2 +1,2 @@
-# scladiesnft
-SCLadiesNFT
+# SCLadies NFT
+
